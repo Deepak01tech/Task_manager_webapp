@@ -61,7 +61,6 @@ A MERN application for basic tasks management.
 - Node.js
 - Express.js
 - React
-- Redux
 - Mongodb
 
 ## Dependencies
@@ -162,7 +161,7 @@ Inside backend folder:
 
 - This project
 
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
+  - Github Repo: https://github.com/Deepak01tech/Task_manager_webapp
 
 - Official Docs
 
@@ -189,5 +188,5 @@ Inside backend folder:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: dp55954@gmail.com
+- Linkedin: https://www.linkedin.com/in/deepak-kmr-patel/
